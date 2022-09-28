@@ -8,6 +8,10 @@ body {
     
 }
 
+.Seperation {
+    width: 956px;
+}
+
 .TopBar {
     text-align: center;
     display: flex;
@@ -36,16 +40,28 @@ h3 {
 }
 
 .FirstBlock {
-    margin-left: 25%;
+    width: 256px;
+    height: inherit;
+    margin-top: 64px    ;
+    margin-left: 30%;
+    margin-bottom: 64px;
     justify-content: end;
 }
 
 .SecondBlock {
+    margin-left: 60%;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    width: 256px;
+    height: inherit;
     align-items: center;
     justify-content: center;
 }
 
 .ThirdBlock {
-    width: ;
-    margin-left: 25%;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    width: 256px;
+    height: inherit;
+    margin-left: 30%;
 }
