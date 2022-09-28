@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.CompanyName {
+    text-align: center;
+    
+}
+
+.TopBar {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NavBar {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    margin: 0;
+}
+
+.NavBar ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    font-size: 24px;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+h3 {
+    margin: 64px;
+}
+
+.FirstBlock {
+    margin-left: 25%;
+    justify-content: end;
+}
+
+.SecondBlock {
+    align-items: center;
+    justify-content: center;
+}
+
+.ThirdBlock {
+    width: ;
+    margin-left: 25%;
+}
