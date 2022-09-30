@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+button {
+    margin-left: 25%;
+}
+
 .CompanyName {
     text-align: center;
     
